@@ -1,0 +1,25 @@
+update references in entity project
+create dbcontext
+create dbcontext factory
+create entity class
+create first migration
+create api controller
+add cors
+add connection strings to appsettings
+register dbcontext
+
+add apibaseurl to environment
+add homepage component
+add things module
+add things service
+add things component
+
+
+
+
+
+
+
+
+
+test every goddamn step

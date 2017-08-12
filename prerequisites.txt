@@ -1,0 +1,17 @@
+Node.js 
+https://nodejs.org/en/download/
+
+.Net Core
+https://www.microsoft.com/net/core
+
+Visual Studio & Visual Studio Code
+https://www.visualstudio.com/downloads/
+
+SQL Server 2016 Express LocalDB
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Microsoft ODBC Driver 13.1 for SQL Server
+https://www.microsoft.com/en-us/download/details.aspx?id=53339
+
+Microsoft Command Line Utilities 13.1 for SQL Server
+https://www.microsoft.com/en-us/download/details.aspx?id=53591
